@@ -1,0 +1,14 @@
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\bin\Debug\net9.0\WriteToFileExample.exe
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\bin\Debug\net9.0\WriteToFileExample.deps.json
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\bin\Debug\net9.0\WriteToFileExample.runtimeconfig.json
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\bin\Debug\net9.0\WriteToFileExample.dll
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\bin\Debug\net9.0\WriteToFileExample.pdb
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\WriteToFileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\WriteToFileExample.AssemblyInfoInputs.cache
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\WriteToFileExample.AssemblyInfo.cs
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\WriteToFileExample.csproj.CoreCompileInputs.cache
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\WriteToFileExample.dll
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\refint\WriteToFileExample.dll
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\WriteToFileExample.pdb
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\WriteToFileExample.genruntimeconfig.cache
+C:\Users\RobertMadigan(Tallag\OneDrive - Dublin & Dun Laoghaire Education Training Board\Development\C_Sharp\WriteToFileExample\obj\Debug\net9.0\ref\WriteToFileExample.dll
